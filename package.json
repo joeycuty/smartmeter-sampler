@@ -1,0 +1,23 @@
+{
+  "name": "fu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "datasender.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "firebase-admin": "^5.5.1",
+    "serialport": "^6.0.4"
+  }
+}
